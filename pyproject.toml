@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-pro-export-tool"
+description = "This is a node to convert workflows to cyuai api available nodes."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/dionren/ComfyUI-Pro-Export-Tool"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Pro-Export-Tool"
+Icon = ""
